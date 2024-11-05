@@ -80,13 +80,17 @@ endmodule
  Developed by:Muralidar.P Register Number:24900233 
  
 **Logic symbol & Truthtable**
-https://github.com/user-attachments/assets/33e859ae-fef3-4052-9f6e-005c61b42bf5
+![16ec65eb-9652-4249-9b74-1bc5113ddc4f](https://github.com/user-attachments/assets/dc468cb7-9e67-458f-b1ab-0486d25e5118)
+
 
 **RTL realization Output:** 
-https://github.com/user-attachments/assets/fbaf88b5-3782-4c59-8385-6665db849c4a
+![exp1](https://github.com/user-attachments/assets/846ffd9b-1b85-493d-a3f7-20975aa727f3)
+
 
 **RTL**
-https://github.com/user-attachments/assets/864f1eb2-29a0-49a1-befa-4b50aec33fd6
+![exp1 sim](https://github.com/user-attachments/assets/f19dc072-28fd-4e25-a9f7-da0f673f5339)
+
+
 
 
 **Result:**
